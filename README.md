@@ -1,1 +1,1 @@
-# college_radio_station_list
+Community updated list of college radio stations ran and operated by students. (No NPR)
